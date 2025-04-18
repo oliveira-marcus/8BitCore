@@ -48,5 +48,7 @@ Bem-vindo ao repositório do site institucional da **8BitCore**, uma distribuido
 ## 📷 Prévias
 
 ![image](https://github.com/user-attachments/assets/9eafd491-7dc6-40a4-a0e1-52ff49a3ec1d)
-![image](https://github.com/user-attachments/assets/b9b7eb32-7e45-4354-90b0-b5778184ed44)
-![image](https://github.com/user-attachments/assets/bae4540f-8a0f-4dee-8e86-03590f98a78f)
+![image](https://github.com/user-attachments/assets/4219ee81-f771-4843-ab79-ca495537d5e9)
+![image](https://github.com/user-attachments/assets/bac79ad0-298a-48d9-a159-e5684d58bd16)
+![image](https://github.com/user-attachments/assets/9338dc9c-d1d1-4f0f-908b-c4bc9e6419fe)
+
