@@ -31,6 +31,13 @@ header {
   padding: 0 20px;
 }
 
+.container3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .container2.reverse {
   flex-direction: row-reverse;
 }
@@ -119,12 +126,14 @@ footer {
   margin-top: 40px;
   font-size: 0.9em;
   color: #555;
+  background-color: black;
+  padding: 15px;
 }
 
 body {
   position: relative;
   min-height: 100vh;
-  background-image: url(/frontend/imagens/background.jpg);
+  background-image: url(../imagens/background.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -177,12 +186,6 @@ body {
 
 main {
   font-size: 32px;
-}
-
-#foto1 {
-  width: 450px;
-  border-radius: 8px;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
 
 #foto1 {
@@ -244,7 +247,6 @@ main {
   object-fit: cover;
 }
 
-/* Responsividade para todas as imagens e containers */
 @media (max-width: 992px) {
   .container2,
   .container2.reverse {

@@ -12,7 +12,6 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(express.static("public"));
 
-// Rota para salvar os dados
 app.post("/salvar-contato", (req, res) => {
   const { nome, email, mensagem } = req.body;
 
@@ -23,7 +22,6 @@ app.post("/salvar-contato", (req, res) => {
     data: new Date().toISOString(),
   };
 
-  // Lê o arquivo atual
   fs.readFile("contatos.json", "utf8", (err, data) => {
     let contatos = [];
 
@@ -43,7 +41,6 @@ app.post("/salvar-contato", (req, res) => {
   });
 });
 
-// Inicia o servidor
 app.listen(PORT, () => {
   console.log(`Servidor rodando em http://localhost:${PORT}`);
 });
