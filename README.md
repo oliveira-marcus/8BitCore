@@ -5,16 +5,16 @@ Bem-vindo ao repositório do site institucional da **8BitCore**, uma distribuido
 ## 🎨 Tecnologias Utilizadas
 
 ### Frontend:
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+- **[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)**
+- **[CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+- **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 - **[Animate.css](https://animate.style/)**
 - **[Google Fonts - Pixelify Sans](https://fonts.google.com/specimen/Pixelify+Sans)**
 
 ### Backend:
-- **Node.js**
-- **Express.js** (para lidar com requisições do formulário)
-- **CORS** (para lidar com as relações entre os servidores)
+- **[Node.js](https://nodejs.org/en)**
+- **[Express.js](https://expressjs.com/)** (para lidar com requisições do formulário)
+- **[CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS)** (para lidar com as relações entre os servidores)
 
 ## 📌 Funcionalidades
 
