@@ -45,3 +45,8 @@ Bem-vindo ao repositório do site institucional da **8BitCore**, uma distribuido
 
 6. **Crie um servidor local com o Live Server**.
    
+## 📷 Prévias
+
+![image](https://github.com/user-attachments/assets/9eafd491-7dc6-40a4-a0e1-52ff49a3ec1d)
+![image](https://github.com/user-attachments/assets/b9b7eb32-7e45-4354-90b0-b5778184ed44)
+![image](https://github.com/user-attachments/assets/bae4540f-8a0f-4dee-8e86-03590f98a78f)
