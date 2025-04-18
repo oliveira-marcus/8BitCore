@@ -220,7 +220,7 @@ main {
 }
 
 #foto5 {
-  width: 500px;
+  width: 600px;
   border-radius: 8px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
   object-fit: cover;
@@ -240,13 +240,6 @@ main {
   object-fit: cover;
 }
 
-#foto8 {
-  width: 600px;
-  border-radius: 8px;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-  object-fit: cover;
-}
-
 @media (max-width: 992px) {
   .container2,
   .container2.reverse {
@@ -259,8 +252,7 @@ main {
   #foto4,
   #foto5,
   #foto6,
-  #foto7,
-  #foto8 {
+  #foto7 {
     width: 100%;
     max-width: 450px;
     margin: 20px 0;
