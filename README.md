@@ -52,3 +52,4 @@ Bem-vindo ao repositório do site institucional da **8BitCore**, uma distribuido
 ![image](https://github.com/user-attachments/assets/bac79ad0-298a-48d9-a159-e5684d58bd16)
 ![image](https://github.com/user-attachments/assets/9338dc9c-d1d1-4f0f-908b-c4bc9e6419fe)
 
+# devunisol
